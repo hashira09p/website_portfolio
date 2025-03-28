@@ -101,7 +101,7 @@ span {
 }
 
 .typing-text span::before {
-  content: "software Developer";
+  content: "Computer Engineer.";
   color: #b74b4b;
   animation: words 20s infinite;
 }
@@ -126,28 +126,343 @@ span {
 @keyframes words {
 
   0%,
+  1% {
+    content: "W";
+  }
+
+  1%,
+  2% {
+    content: "We";
+  }
+
+  2%,
+  3% {
+    content: "Web";
+  }
+
+  3%,
+  4% {
+    content: "Web";
+  }
+
+  4%,
+  5% {
+    content: "Web D";
+  }
+
+  5%,
+  6% {
+    content: "Web De";
+  }
+
+  6%,
+  7% {
+    content: "Web Dev";
+  }
+
+  7%,
+  8% {
+    content: "Web Deve";
+  }
+
+  8%,
+  9% {
+    content: "Web Devel";
+  }
+
+  9%,
+  10% {
+    content: "Web Develo";
+  }
+
+  10%,
+  11% {
+    content: "Web Develop";
+  }
+
+  11%,
+  12% {
+    content: "Web Develope";
+  }
+
+  12%,
+  13% {
+    content: "Web Developer.";
+  }
+
+  13%,
+  14% {
+    content: "Web Developer.";
+  }
+
+  14%,
+  15% {
+    content: "Web Developer.";
+  }
+
+  15%,
+  16% {
+    content: "Web Developer.";
+  }
+
+  16%,
+  17% {
+    content: "Web Developer.";
+  }
+
+  17%,
+  18% {
+    content: "Web Developer.";
+  }
+
+  18%,
+  19% {
+    content: "Web Developer.";
+  }
+
+  19%,
   20% {
-    content: "Web Developer";
+    content: "Web Developer.";
+  }
+
+  20%,
+  21% {
+    content: "S";
   }
 
   21%,
+  22% {
+    content: "So";
+  }
+
+  22%,
+  23% {
+    content: "Sof";
+  }
+
+  23%,
+  24% {
+    content: "Soft";
+  }
+
+  24%,
+  25% {
+    content: "Softw";
+  }
+
+  25%,
+  26% {
+    content: "Softwa";
+  }
+
+  26%,
+  27% {
+    content: "Softwar";
+  }
+
+  27%,
+  28% {
+    content: "Software";
+  }
+
+  28%,
+  29% {
+    content: "Software ";
+  }
+
+  29%,
+  30% {
+    content: "Software  D";
+  }
+
+  30%,
+  31% {
+    content: "Software De";
+  }
+
+  31%,
+  32% {
+    content: "Software Dev";
+  }
+
+  32%,
+  33% {
+    content: "Software Deve";
+  }
+
+  33%,
+  34% {
+    content: "Software Devel";
+  }
+
+  34%,
+  35% {
+    content: "Software Develo";
+  }
+
+  35%,
+  36% {
+    content: "Software Develop";
+  }
+
+  36%,
+  37% {
+    content: "Software Develope";
+  }
+
+  37%,
+  38% {
+    content: "Software Developer.";
+  }
+
+  38%,
+  39% {
+    content: "Software Developer.";
+  }
+
+  39%,
   40% {
-    content: "Software Developer";
+    content: "Software Developer.";
+  }
+
+  40%,
+  41% {
+    content: "Software Developer.";
   }
 
   41%,
+  42% {
+    content: "Software Developer.";
+  }
+
+  42%,
+  43% {
+    content: "Software Developer.";
+  }
+
+  43%,
+  44% {
+    content: "W";
+  }
+
+  44%,
+  45% {
+    content: "We";
+  }
+
+  45%,
+  46% {
+    content: "We";
+  }
+
+  46%,
+  47% {
+    content: "Web";
+  }
+
+  47%,
+  48% {
+    content: "Web ";
+  }
+
+  48%,
+  49% {
+    content: "Web D";
+  }
+
+  49%,
+  50% {
+    content: "Web De";
+  }
+
+  50%,
+  51% {
+    content: "Web Des";
+  }
+
+  51%,
+  52% {
+    content: "Web Desi";
+  }
+
+  52%,
+  53% {
+    content: "Web Desig";
+  }
+
+  53%,
+  54% {
+    content: "Web Design";
+  }
+
+  54%,
+  55% {
+    content: "Web Designe";
+  }
+
+  55%,
+  56% {
+    content: "Web Designer.";
+  }
+
+  56%,
+  57% {
+    content: "Web Designer.";
+  }
+
+  57%,
+  58% {
+    content: "Web Designer.";
+  }
+
+  58%,
+  59% {
+    content: "Web Designer.";
+  }
+
+  59%,
   60% {
-    content: "Web Designer";
+    content: "Web Designer.";
+  }
+
+  60%,
+  61% {
+    content: "Web Designer.";
   }
 
   61%,
-  80% {
-    content: "Pianist";
+  62% {
+    content: "P";
   }
 
-  81%,
-  100% {
-    content: "Artist";
+  62%,
+  63% {
+    content: "Pi";
+  }
+
+  63%,
+  64% {
+    content: "Pia";
+  }
+
+  64%,
+  65% {
+    content: "Pian";
+  }
+
+  65%,
+  66% {
+    content: "Piani";
+  }
+
+  66%,
+  67% {
+    content: "Pianis";
+  }
+
+  67%,
+  68% {
+    content: "Pianist.";
   }
 }
 
