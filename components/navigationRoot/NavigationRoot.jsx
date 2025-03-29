@@ -8,7 +8,7 @@ const NavigationRoot = () => {
       <a href="#" className="logo">Jerome</a>
       <span>Log in for More <span>&#8594;</span></span>
       <nav>
-        <Link to="/login">Login</Link>
+        <Link to="/sign_in">Login</Link>
       </nav>
     </header>
   )

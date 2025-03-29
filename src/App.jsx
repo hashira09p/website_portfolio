@@ -1,9 +1,10 @@
-import { useState } from 'react'
+import { React, useState } from 'react'
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import './App.css'
 import Home from "../components/home/Home";
 import Root from "../components/root/Root";
-import Form from "../components/forms/loginForm"
+import SignInForm from "../components/forms/signinForm"
+import SignUpForm from "../components/forms/signupForm"
 
 function App() {
 
@@ -11,8 +12,8 @@ function App() {
     <>
       <Router>
         <Routes>
-          <Route path='/login' element={<Form />} />
-          <Route path='/register' element={<Root />} />
+          <Route path='/sign_in' element={<SignInForm />} />
+          <Route path='/sign_up' element={<SignUpForm />} />
           <Route path='/' element={<Root />} />
         </Routes>
       </Router>
